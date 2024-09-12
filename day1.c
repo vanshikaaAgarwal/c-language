@@ -2,7 +2,10 @@
 
 
 main(){
-    printf("hello");
+    printf("hello\n");
+    printf("Heyy\n");
+    printf("Hii\n");
+
    
 
 }
